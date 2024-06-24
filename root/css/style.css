@@ -1,6 +1,6 @@
 #hero {
     height: 800px;
-    background-image: url("/root/images/places/ocean.jpg");
+    background-image: url("../images/places/ocean.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -95,3 +95,4 @@
 .destination strong {
     color: rgb(0, 160, 117);
 }
+
